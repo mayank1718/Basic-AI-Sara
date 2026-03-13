@@ -1,7 +1,12 @@
-# Basic-AI-Sara
-Sara is a basic project created for learning and practice purposes.  It demonstrates simple functionality and fundamental programming concepts.  The project helps beginners understand coding logic and how to manage projects using GitHub.
+# Sara Project
 
+Sara is a basic project developed for learning and practicing programming skills. 
+This project demonstrates fundamental concepts and simple functionality in a beginner-friendly way.
 
-Sara is a basic project created for learning and practice purposes. 
-It demonstrates simple functionality and fundamental programming concepts. 
-The project helps beginners understand coding logic and how to manage projects using GitHub.
+## Features
+- Simple and easy-to-understand code
+- Beginner-friendly project structure
+- Helps in learning basic programming concepts
+
+## Purpose
+The goal of this project is to practice coding and understand how to manage and share projects using GitHub.
